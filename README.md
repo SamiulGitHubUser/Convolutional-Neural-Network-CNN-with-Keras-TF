@@ -6,6 +6,10 @@ The MNIST dataset is one of the most common datasets used for image classificati
 In fact, even Tensorflow and Keras allow us to import and download the MNIST dataset directly from their API.The MNIST database
 contains 60,000 training images and 10,000 testing images.
 
+MNIST datasets: 
+- http://yann.lecun.com/exdb/mnist/
+- https://www.tensorflow.org/datasets/catalog/mnist
+
 ## Image Classification with CIFAR-10 Dataset
 CIFAR-10 is a dataset of 50,000 32x32 color training images, labeled over 10 categories, and 10,000 test images.
   * airplane : 0
